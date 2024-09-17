@@ -1,3 +1,4 @@
+/* eslint-disable no-mixed-spaces-and-tabs */
 import type { Config } from "tailwindcss";
 
 const config: Config = {
